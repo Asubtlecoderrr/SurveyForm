@@ -1,0 +1,66 @@
+#description{
+  text-align:center;
+  font-size: 17px;
+  text-shadow: 1px 1px 1px rgb(0 0 0 / 20%);
+  font-family: 'Courier New', monospace;
+}
+#title{
+  text-align:center;
+  color: black;
+}
+#survey-form{
+  font-size:16px;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 20px;
+  margin-left: 20%;
+  background-color:#d4d4d4;
+  margin: auto;
+  width: 50%;
+  padding: 1%;
+  padding-right: 0px;
+  box-sizing: border-box;
+  
+}
+
+#radiox,#checkbox{
+  margin-top:20px;
+  
+}
+#radio,#radiox,#checkbox{
+  width: 20px;
+  height: 17px;
+  margin-bottom:25px;
+}
+
+#name, #email, #number, #dropdown{
+  margin-top:10px;
+  margin-bottom:20px;
+  padding:10px;
+  width: 90%;
+  margin-right: 10px;
+  font-size: 20px;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+}
+#dropdown{
+  width: 93.5%;
+}
+#textarea{
+  margin-top:20px;
+  height: 100px;
+  width: 680px;
+  font-size:20px;
+  resize:none;
+}
+
+#submit{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  width: 93.5%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top:25px;
+}
